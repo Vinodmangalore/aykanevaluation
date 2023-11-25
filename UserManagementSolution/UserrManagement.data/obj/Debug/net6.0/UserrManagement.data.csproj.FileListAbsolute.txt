@@ -1,0 +1,14 @@
+C:\playground\UserManagementSolution\UserrManagement.data\bin\Debug\net6.0\UserrManagement.data.deps.json
+C:\playground\UserManagementSolution\UserrManagement.data\bin\Debug\net6.0\UserrManagement.data.dll
+C:\playground\UserManagementSolution\UserrManagement.data\bin\Debug\net6.0\UserrManagement.data.pdb
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.csproj.AssemblyReference.cache
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.AssemblyInfoInputs.cache
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.AssemblyInfo.cs
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.csproj.CoreCompileInputs.cache
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.dll
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\refint\UserrManagement.data.dll
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.pdb
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\ref\UserrManagement.data.dll
+C:\playground\UserManagementSolution\UserrManagement.data\bin\Debug\net6.0\UserrManagement.data.runtimeconfig.json
+C:\playground\UserManagementSolution\UserrManagement.data\obj\Debug\net6.0\UserrManagement.data.genruntimeconfig.cache
