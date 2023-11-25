@@ -1,0 +1,14 @@
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\bin\Debug\net6.0\ToDo.Data.deps.json
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\bin\Debug\net6.0\ToDo.Data.runtimeconfig.json
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\bin\Debug\net6.0\ToDo.Data.dll
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\bin\Debug\net6.0\ToDo.Data.pdb
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.csproj.AssemblyReference.cache
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.AssemblyInfoInputs.cache
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.AssemblyInfo.cs
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.csproj.CoreCompileInputs.cache
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.dll
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\refint\ToDo.Data.dll
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.pdb
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ToDo.Data.genruntimeconfig.cache
+C:\Users\SUHAS R S\OneDrive\Desktop\skillhouse\To-Do List System\ToDo.Data\obj\Debug\net6.0\ref\ToDo.Data.dll
