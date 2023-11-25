@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\bin\Debug\net6.0\TaskManagement.data.deps.json
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\bin\Debug\net6.0\TaskManagement.data.runtimeconfig.json
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\bin\Debug\net6.0\TaskManagement.data.dll
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\bin\Debug\net6.0\TaskManagement.data.pdb
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.AssemblyInfo.cs
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.dll
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\refint\TaskManagement.data.dll
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.pdb
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\TaskManagement.data.genruntimeconfig.cache
+C:\Users\Dell\source\repos\TaskManagementSolution\TaskManagement.data\obj\Debug\net6.0\ref\TaskManagement.data.dll
