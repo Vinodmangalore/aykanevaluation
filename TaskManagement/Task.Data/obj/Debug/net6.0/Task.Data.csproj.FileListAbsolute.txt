@@ -1,0 +1,14 @@
+D:\CsharpPrograms\TaskManagement\Task.Data\bin\Debug\net6.0\Task.Data.deps.json
+D:\CsharpPrograms\TaskManagement\Task.Data\bin\Debug\net6.0\Task.Data.runtimeconfig.json
+D:\CsharpPrograms\TaskManagement\Task.Data\bin\Debug\net6.0\Task.Data.dll
+D:\CsharpPrograms\TaskManagement\Task.Data\bin\Debug\net6.0\Task.Data.pdb
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.csproj.AssemblyReference.cache
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.AssemblyInfoInputs.cache
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.AssemblyInfo.cs
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.csproj.CoreCompileInputs.cache
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.dll
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\refint\Task.Data.dll
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.pdb
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\Task.Data.genruntimeconfig.cache
+D:\CsharpPrograms\TaskManagement\Task.Data\obj\Debug\net6.0\ref\Task.Data.dll
